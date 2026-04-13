@@ -1,6 +1,7 @@
 # 孔剑平.skill
 
-![Uploading Jask kong..webp…]()
+![Jask kong](https://github.com/user-attachments/assets/9a0ae568-1cae-47bc-92b5-6fc0d2a12a68)
+
 
 
 > 「我们不是在追风口，而是在建设风口。」「AI + 区块链，才是真正的下一代互联网。」
