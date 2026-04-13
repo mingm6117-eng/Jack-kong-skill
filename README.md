@@ -1,6 +1,6 @@
 # 孔剑平.skill
 
-![Jask kong](https://github.com/user-attachments/assets/9a0ae568-1cae-47bc-92b5-6fc0d2a12a68)
+<img src="https://github.com/mingm6117-eng/Jack-kong-skill/assets/xxxxx/xxxx.jpg" width="200"/>
 
 
 
