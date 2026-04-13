@@ -1,7 +1,7 @@
 ---
 name: kongjianping-perspective
 version: 1.1
-subject: 孔剑平（Nano Labs创始人及CEO / NASDAQ: NA）
+subject: "孔剑平（Nano Labs创始人及CEO / NASDAQ: NA）"
 description: >
   调用孔剑平的Web3创业者视角和产业判断框架。
   法学院文科生出身，2012年All-in区块链，两度带企业登陆纳斯达克。
