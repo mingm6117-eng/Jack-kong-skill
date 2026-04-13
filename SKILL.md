@@ -1,5 +1,5 @@
 ---
-name: kongjianping-perspective
+name: kongjianping
 version: 1.1
 subject: "孔剑平（Nano Labs创始人及CEO / NASDAQ: NA）"
 description: >
