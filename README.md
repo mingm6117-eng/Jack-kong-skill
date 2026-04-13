@@ -1,7 +1,6 @@
 # 孔剑平.skill
 
-<img src="https://github.com/mingm6117-eng/Jack-kong-skill/assets/xxxxx/xxxx.jpg" width="200"/>
-
+<img src="https://github.com/user-attachments/assets/f0a7537a-e4b4-4d43-bb27-b7951b134793" width="300"/>
 
 
 > 「我们不是在追风口，而是在建设风口。」「AI + 区块链，才是真正的下一代互联网。」
