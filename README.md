@@ -76,17 +76,16 @@
 
 ## 安装
 
-```bash
-npx skills add mingm6117-eng/kongjianping-skill
-```
+## 安装
 
-或手动复制：
+**方式一：git clone（推荐，最稳定）**
+git clone https://github.com/mingm6117-eng/Jack-kong-skill.git ~/.claude/skills/Jack-kong-skill
 
-```bash
-cp -r kongjianping-skill ~/.claude/skills/
-```
+**方式二：npx（需要 Node.js 环境）**
+npx skills add mingm6117-eng/Jack-kong-skill
 
-然后在 Claude Code 里直接调用：
+**方式三：OpenClaw / 其他工具**
+打开 SKILL.md → 全选复制 → 粘贴到 Agent 的 System Prompt
 
 ```
 > 用孔剑平的视角评估这个Web3项目
